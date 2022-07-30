@@ -9,6 +9,6 @@
   <img align="center" alt="Coding" width="440" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 </p>
 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-hash256&show_icons=true&locale=en&layout=compact" alt="abhi-hash256" width="320px" height="188.7px"/>
- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-hash256&" alt="abhi-hash256" width="320px" height="185px"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-hash256&show_icons=true&locale=en&layout=compact" alt="abhi-hash256" width="380px" height="188.7px"/>
+ <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-hash256&" alt="abhi-hash256" width="380px" height="185px"/>
 
