@@ -1,4 +1,4 @@
-<h3 align="center">Hi homies , I'm Abhishek Kumar</h3>
+<h3 align="center">Hii homies , I'm Kumar Abhishek</h3>
 <h3 align="center">💻️ Just a developer & programmer who loves googling.</h3>
 <h4 align="center">Binary search is most superb algo ever made. BST was cool but Hashing gave me BFF vibes, so I chose it.</h5>
 <hr>
